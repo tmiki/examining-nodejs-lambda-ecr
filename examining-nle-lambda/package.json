@@ -1,0 +1,16 @@
+{
+  "name": "examining-nle-lambda",
+  "version": "1.0.0",
+  "description": "Docker-based Lambda function",
+  "main": "src/index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-lambda": "^1.0.7",
+     "@types/aws-lambda": "^8.10.92"
+  }
+}

@@ -1,0 +1,4 @@
+# .dockerignore
+.vscode/
+*/node_modules/
+*/cdk.out/
